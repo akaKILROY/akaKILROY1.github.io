@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Alexander Costa's Portfolio"
 title_separator          : "-"
 subtitle                 : "An Exploration into the World of Data" # site tagline that appears below site title in masthead
-name                     : "Alexander Costa | "
+name                     : "Alexander Costa"
 description              : "Powered by Jekyll & Minimal Mistakes" #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 author:
   name             : "A Collection of Select Projects"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello! I'm passionate about telling stories through quantitative analysis and aim to pursue a career in data science. Take a look around!"
+  bio              : "Hello! I'm a graduating student who is passionate about telling stories through quantitative analysis and aims to pursue a career in data science. Check out my previous work!"
   location         : "Chicago, IL"
   email            : "agcosta975@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: agcosta975@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:agcosta975@gmail.com
     - label: "Website"
