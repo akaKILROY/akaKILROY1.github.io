@@ -19,9 +19,8 @@ locale                   : "en-US"
 title                    : "Alexander Costa's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "A Collection of Select Projects"
-description              : "Hello! I am a graduating senior finishing two degrees in Econometrics and Quantitative Economics and Urban Studies and Planning: Policy and Planning.
-                            I am passionate about telling stories through quantitative analysis and aim to pursue a career in data science"
+name                     : "Alexander Costa"
+description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Costa"
+  name             : "A Collection of Select Projects"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hello! I am a graduating senior finishing two degrees in Econometrics and Quantitative Economics and Urban Studies and Planning: Policy and Planning.
+                              I am passionate about telling stories through quantitative analysis and aim to pursue a career in data science"
   location         : "Chicago, IL"
   email            : "agcosta975@gmail.com"
   links:
