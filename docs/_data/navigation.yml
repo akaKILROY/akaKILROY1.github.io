@@ -25,7 +25,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /projects/
+    url: '/projects'
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
