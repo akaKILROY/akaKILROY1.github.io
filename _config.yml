@@ -104,11 +104,7 @@ analytics:
 author:
   name             : "A Collection of Select Projects"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "University of Illinois at Urbana-Champaign Class of 2022\n\nBS Econometrics and Quantiative Economics
-
-                      BA Urban Studies and Planning: Policy and Planning
-
-                      Passionate about data science and quantitative analysis"
+  bio              : "University of Illinois at Urbana-Champaign Class of 2022<br>BS Econometrics and Quantiative Economics<br>BA Urban Studies and Planning: Policy and Planning<br>Passionate about data science and quantitative analysis"
   location         : "Chicago, IL"
   email            : "agcosta975@gmail.com"
   links:
