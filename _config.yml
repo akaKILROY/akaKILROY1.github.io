@@ -108,9 +108,9 @@ author:
   location         : "Chicago, IL"
   email            : "agcosta975@gmail.com"
   links:
-    - label: "agcosta975@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:agcosta975@gmail.com
+      url: mailto:agcosta975@gmail.com
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
       url: "/Alexander Costa Quant Applicant Quant Resume.pdf"
