@@ -2,7 +2,7 @@
 main:
   - title: "Resume"
     url: /Alexander Costa Applicant Quant Resume.pdf
-  # - title: "About"
+  - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
