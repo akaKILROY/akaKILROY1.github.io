@@ -115,7 +115,7 @@ author:
       icon: "far fa-fw fa-file-pdf"
       url: "/Alexander Costa Quant Applicant Quant Resume.pdf"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw linkedin"
       url: "https://www.linkedin.com/in/alexander-costa975"
     - label: "GitHub"
       icon: ""fab fa-fw fa-github""
