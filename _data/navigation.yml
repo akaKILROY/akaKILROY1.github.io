@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Resume"
-    url: /Alexander Costa Applicant Quant Resume.pdf
-  - title: "About"
+  - title: "Projects"
+    # url: /
+  - title: "Work"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "About"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+  # - title: "About"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
