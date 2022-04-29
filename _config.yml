@@ -113,7 +113,7 @@ author:
       # url: mailto:agcosta975@gmail.com
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: /Alexander Costa Quant Applicant Quant Resume.pdf
+      url: "/Alexander Costa Quant Applicant Quant Resume.pdf"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/alexander-costa975"
