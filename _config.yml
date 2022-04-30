@@ -112,7 +112,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:agcosta975@gmail.com
     - label: "Resume"
-      icon: "fa-solid fa-file"
+      icon: "fab fa-fw fa-light fa-file"
       url: "/Alexander Costa Applicant Quant Resume.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
