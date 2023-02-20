@@ -273,7 +273,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/
 
 # Defaults
 defaults:
@@ -289,11 +293,7 @@ defaults:
       share: true
       related: true
 
-# Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/
+
     
 
 theme: jekyll-theme-minimal
