@@ -277,16 +277,23 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _portfolio
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
 
 theme: jekyll-theme-minimal
