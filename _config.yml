@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Costa's Portfolio"
+title                    : "Alexander Costa's T Portfolio"
 title_separator          : "-"
 subtitle                 : "An Exploration into the World of Data" # site tagline that appears below site title in masthead
 name                     : "Alexander Costa"
