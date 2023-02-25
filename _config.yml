@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme: minimal-mistakes-jekyll 
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Alexander Costa"
 title_separator          : "-"
-subtitle                 : "An Exploration into the World of Data" # site tagline that appears below site title in masthead
+subtitle                 : "Data Analyst" # site tagline that appears below site title in masthead
 name                     : "Alexander Costa"
 description              : "Powered by Jekyll & Minimal Mistakes" #
 url                      : "https://alexandercosta.github.io"
@@ -290,8 +290,3 @@ defaults:
       author_profile: false
       share: true
       
-
-
-    
-
-theme: jekyll-theme-minimal
