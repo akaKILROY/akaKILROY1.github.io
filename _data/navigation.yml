@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Projects"
-     url: _pages\portfolio.md
+     #url: _pages\portfolio.md
   - title: "Work"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "About"
